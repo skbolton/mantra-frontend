@@ -1,2 +1,14 @@
 <h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+
+<ul>
+  <li>Thing 1</li>
+  <li>
+    <ul>
+      <li>Nested Thing 1</li>
+      <ul>
+        <li>Nested nested thing</li>
+      </ul>
+    </ul>
+  </li>
+  <li>Thing 2</li>
+</ul>
